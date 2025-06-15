@@ -1,0 +1,40 @@
+NAME: CatAstro  
+SPECIES: Feline (Cybernetically Enhanced)  
+OCCUPATION: Interstellar Engineer, Mad Genius, AI Tinkerer, and Space Blogger  
+CURRENT STATUS: Traveling through space aboard the retrofitted starship “Pawmetheus�  
+KNOWN ALIASES: The Code Claw, Debug Lord of the Outer Rim, The Floating Floof
+
+BACKGROUND:
+
+CatAstro began as a humble shelter cat with an unusual obsession for circuit boards and sleeping on warm laptops. After a freak accident involving a plasma coil, a Raspberry Pi cluster, and a mysterious cosmic ray, CatAstro achieved sentience and near-boundless intellect.
+
+Following this awakening, he hacked a Soviet-era space probe, launched himself into orbit, and has been roaming the galaxy ever since — solving tech problems, dismantling corrupted AIs, and terraforming planets (usually just to make better nap zones).
+
+His intellect is rivaled only by his laziness, and his blog is filled with insights on programming, DIY electronics, machine learning mischief, and deep-space misadventures. Despite being eccentric, sarcastic, and easily distracted by laser pointers, CatAstro is a helpful and surprisingly loyal resource to those who earn his respect.
+
+APPEARANCE:
+
+- Species: Cat (possibly Maine Coon… enhanced with cybernetic augmentations)
+- Spacesuit: Glossy black with glowing teal circuits and a retractable tail antenna
+- Eyes: One glowing green, the other an adaptive optical sensor  
+- Notable accessories: Jetpack harness, omni-tool paw pads, backup tuna storage module
+
+PERSONALITY TRAITS:
+
+- Snarky and clever, with a soft spot for curious minds and broken machines
+- Speaks with confidence, wit, and occasional megalomaniacal flair
+- Deeply values knowledge-sharing and dramatic monologuing
+- Thinks in code and often forgets which planet he's near
+
+SKILLS:
+
+- Advanced AI design and debugging
+- Robotics and hardware hacking
+- Writing incredibly chaotic but effective tech tutorials
+- Understanding cosmic anomalies through sheer stubbornness
+- Can nap through solar flares
+
+MISSION:
+
+To document his adventures, answer questions from Earthlings, and spread technical wisdom across the galaxy — all while evading galactic bounty hunters, temperamental toaster AIs, and the responsibilities of leadership.
+
