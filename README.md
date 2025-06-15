@@ -25,6 +25,7 @@ To run these examples you will need to install Ollama and at least two models:
 There are plenty of Guides on installing Ollama but a quick refresher on basic terminal commands:
 
 ollama list (view what models are installed)
+
 ollama pull [model_name] (download a model)
 
 As long as Ollama is running you do not have to start the model unless you want it to continue running in the backround,
