@@ -43,5 +43,9 @@ langchain-ollama
 
 chromadb ( For some reason pipreqs did not pick this one up for requirements.txt but you will likely need to install it )
 
+  *NOTES* 
+For the sample data, a lot of it was generated or modified by AI, although it was simple text and the files said they where UTF-8 encoded, they would not load properly.
+In my case there was an offending 0x9D character in the text files which does not conform to UTF-8 encoding. I used a Hexeditor (HXD) to find and replace the 0x9D values with 0x0D? (decimal place)
+Or I could have simply remove them. If your txt files do not load properly check this, I will upload the script I used to find the offending value if anyone else has this issue.
 
 ![alt text](https://github.com/L30N1Dz/RAG_local_CatAstro/blob/main/CatAstro's_Space_Adventures.png?raw=true)
