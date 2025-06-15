@@ -32,6 +32,7 @@ As long as Ollama is running you do not have to start the model unless you want 
 when the script makes a call to Ollama it will start the  proper model, run the prompts and unload automatically.
 
 Prerequisits: (requirements.txt, Please install these packages to run the script.)
+
 langchain
 
 langchain-community
