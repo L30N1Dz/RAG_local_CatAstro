@@ -33,9 +33,13 @@ when the script makes a call to Ollama it will start the  proper model, run the 
 
 Prerequisits: (requirements.txt, Please install these packages to run the script.)
 langchain
+
 langchain-community
+
 langchain-core
+
 langchain-ollama
+
 chromadb
 
 
