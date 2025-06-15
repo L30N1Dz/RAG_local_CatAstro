@@ -41,7 +41,7 @@ langchain-core
 
 langchain-ollama
 
-chromadb
+chromadb ( For some reason pipreqs did not pick this one up for requirements.txt but you will likely need to install it )
 
 
 ![alt text](https://github.com/L30N1Dz/RAG_local_CatAstro/blob/main/CatAstro's_Space_Adventures.png?raw=true)
