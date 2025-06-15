@@ -1,5 +1,5 @@
 # RAG_local_CatAstro
-This is a simple example of Using RAG locally (Ollama) w/ CatAstro Example Data.
+This is a simple example of using RAG locally (Ollama) w/ CatAstro Example Data.
 
 Description:
 This is a simple example of how to perform RAG, Retrieval Augmented Generation and integrate it with a Large Language Model
