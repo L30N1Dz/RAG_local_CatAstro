@@ -43,7 +43,7 @@ langchain-ollama
 
 chromadb ( For some reason pipreqs did not pick this one up for requirements.txt but you will likely need to install it )
 
-  *NOTES* 
+  *NOTES:* 
 
 For the sample data, a lot of it was generated or modified by AI, although it was simple text and the files said they where UTF-8 encoded, they would not load properly.
 In my case there was an offending 0x9D character in the text files which does not conform to UTF-8 encoding. I used a Hexeditor (HXD) to find and replace the 0x9D values with 0x0D? (decimal place)
