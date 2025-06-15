@@ -11,10 +11,10 @@ The retriever uses MMR (Maximum Marginal Relavance) and retrieves 3 chunks.
 We then feed our question and relevant chunks to the LLM using a custom prompt.
 
 This example data is for use by a web chat assistant to answer questions about a website.
-For fun I've added a system prompt to give the AI a character and I've included some AI generated adventures,
+For fun I've added a system prompt to give the AI a character, I've included some AI generated adventures,
 and a bio to give the chatbot a more interesting and personalized touch for the site.
 
-This is a simple  example to show off the simplicity of Local RAG with Ollama, it runs in a terminal and should only be 
+This is an example to show off the simplicity of Local RAG with Ollama, it runs in a terminal and should only be 
 used as an example to buiild upon.
 
 To run these examples you will need to install Ollama and at least two models:
