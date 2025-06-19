@@ -1,0 +1,6 @@
+__pycache__/
+.vscode/
+.git/
+.pyc
+agent/keys/
+token.json
